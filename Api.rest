@@ -1,0 +1,11 @@
+POST http://localhost:2002/products/post HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+# GET https://api.randomuser.me/ HTTP/1.1
+
+# GET http://localhost:5000/api/get HTTP/1.1  
